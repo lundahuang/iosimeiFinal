@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  imeiFinal
+//  imei
 //
-//  Created by user_02 on 2017/6/23.
-//  Copyright © 2017年 wendy. All rights reserved.
+//  Created by user_05 on 2017/6/20.
+//  Copyright © 2017年 user_05. All rights reserved.
 //
 
 import UIKit
